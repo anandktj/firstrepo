@@ -148,7 +148,7 @@ Mentioned below are the steps to access and setup the sample application:
 * Import this file to your workspace.
 * Set google-play-service.lib as a library project as shown in the screenshot below
 
-[[File:Sampleapp_screenshot_eclipse.png|center|800px]]
+![Sample Application Screenshot] (https://github.com/anandktj/firstrepo/blob/master/Images/sampleapp_screenshot_eclipse.png)
 <br />
 
 ##Advanced Integrations##

@@ -23,8 +23,7 @@ Mentioned below are the steps to follow for adding MdotM Android SDK to your And
 
 * Copy the downloaded MdotM-Android-SDK-3.5.1.jar SDK file into your Eclipse <b>libs</b> folder. Once added, add this file to the build path.
 <br />
-[[File:AddingSDK.png|center|800px]]
-
+![Adding SDK](https://github.com/anandktj/firstrepo/blob/master/Images/AddingSDK.png)
 
 ###Step 3: Modify your Android Manifest###
 
